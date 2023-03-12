@@ -1,0 +1,58 @@
+.top__banner{
+    padding: 50px 70px;
+}
+.top__banner h2{
+    text-align: start;
+}
+
+
+.card__banner{
+    width: 300px;
+    background-color: #eeeeeeab;
+    height: 314px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+
+}
+.card__banner img{
+
+width: 100%;
+    height: 71%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card__banner h2{
+       padding: 5px 0;
+    font-size: 17px;
+    color: #000000fa;
+}
+.card__banner .text{}
+.card__banner p{    font-size: 14px;
+    padding: 5px 0;
+    color: #000000b3;}
+
+
+.row__banner{
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}    
+
+.top__header{display: flex;
+align-content: center;
+justify-content: space-between;}
+
+.arrow{display: flex;
+align-content: center;
+gap: 15px;}
+
+
+.swiper-button{}
+.swiper-button svg{}

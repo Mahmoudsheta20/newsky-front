@@ -1,0 +1,26 @@
+.about {
+    padding: 50px 40px;
+    text-align: start;
+}
+
+.about__main {}
+
+.about h3 {
+    font-size: 25px;
+    color: #000000cf;
+    padding: 12px 0;
+    font-weight: 600;
+}
+
+.about__main p {
+    font-size: 14px;
+    color: #000000c7;
+    line-height: 2.5;
+}
+
+
+.why__us {
+    margin: 20px 0;
+}
+
+.why__us h3 {}
