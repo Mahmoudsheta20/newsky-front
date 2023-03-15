@@ -1,5 +1,5 @@
 import React from "react";
-import { AboutCard, Contact, Seaction, Service } from "../../components";
+import { AboutCard, Contact, Service } from "../../components";
 import "./About.css";
 const About = () => {
   return (

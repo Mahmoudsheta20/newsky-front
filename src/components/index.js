@@ -8,3 +8,4 @@ export { default as AboutCard } from "./About-card/Card";
 export { default as TopBanner } from "./TopBanner/TopBanner";
 export { default as Footer } from "./Footer/Footer";
 export { default as Contact } from "./contact/Contact";
+export { default as Social } from "./social/Social";

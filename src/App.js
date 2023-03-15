@@ -1,22 +1,15 @@
-import './App.css';
-import {
-  
-  Footer,
- 
-  Navbar,
+import "./App.css";
+import { Footer, Navbar, Social } from "./components";
 
-} from "./components";
-
- 
-import { About } from './pages';
+import { About } from "./pages";
 function App() {
   return (
     <div className="App">
-     <Navbar />
-      <About/>
-      <Footer />    
-      
-      </div>
+      <Navbar />
+      <About />
+      <Footer />
+      <Social />
+    </div>
   );
 }
 
